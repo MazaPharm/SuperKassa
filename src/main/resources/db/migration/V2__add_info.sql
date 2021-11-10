@@ -1,0 +1,1 @@
+insert into sk_example_table (obj) values ('{"current":0}'::jsonb);
